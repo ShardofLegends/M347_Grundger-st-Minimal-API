@@ -1,0 +1,20 @@
+{
+  "SerializedFilePath": "/home/vmadmin/projects/minimal-api-with-mongodb/_Arbeitsauftraege/02-Loesung/minimal-api-with-mongodb/WebApi/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/home/vmadmin/projects/minimal-api-with-mongodb/_Arbeitsauftraege/02-Loesung/minimal-api-with-mongodb/WebApi/WebApi.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "WebApi",
+  "Documents": [],
+  "SerializationFormat": "0.3"
+}
