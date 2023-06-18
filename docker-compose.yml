@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  myminimalapi:
+    build: WebApi
+    ports:
+      - 5001:80
+  
