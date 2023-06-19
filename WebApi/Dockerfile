@@ -7,7 +7,7 @@ RUN dotnet publish -c Release -o out
 FROM mcr.microsoft.com/dotnet/aspnet:6.0
 LABEL description="Minimal Api with MongoDB"
 LABEL organisation="KSB St. Gallen"
-LABEL author="Manuel Bruelisauer"
+LABEL author="Inauen Maurin"
 WORKDIR /app
 COPY --from=build-env /build/out .
 ENTRYPOINT ["dotnet", "WebApi.dll"]
